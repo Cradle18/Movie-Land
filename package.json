@@ -1,7 +1,7 @@
 {
   "name": "film-project",
+  "homepage": "http://cradle18.github.io/Movie-Land",
   "version": "0.1.0",
-  "homepage": "https://cradle18.github.io/Movie-Land",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
